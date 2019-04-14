@@ -2,7 +2,7 @@
 C++实现的基础双端队列
 
 Queue类
-···
+```c++
 class Queue
 {
 private:
@@ -26,4 +26,6 @@ public:
 	//outputs the Queue to a stream
 	friend ostream& operator<<(ostream& os, const Queue& Queue);
 };
-···
+
+```
+
