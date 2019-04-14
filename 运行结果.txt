@@ -1,0 +1,14 @@
+s1: 4   1   2   3
+
+Pop the last elem
+last element of s1:3
+s1: 4   1   2
+
+Pop the first elem
+first element of s1:4
+s1: 1   2
+
+s2: 5   1   2
+s1: 1   2
+s2: 5   1   2
+s3: 5   1
